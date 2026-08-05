@@ -460,6 +460,11 @@ PRODUCT_COPY_FILES += \
     vendor/sony/lilac/proprietary/vendor/lib/libexcal_core.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexcal_core.so \
     vendor/sony/lilac/proprietary/vendor/lib/libexcal_pal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexcal_pal.so \
     vendor/sony/lilac/proprietary/vendor/lib/libexcal_system.so:$(TARGET_COPY_OUT_VENDOR)/lib/libexcal_system.so \
+    vendor/sony/lilac/proprietary/vendor/lib/cama15/libutils.so:$(TARGET_COPY_OUT_VENDOR)/lib/cama15/libutils.so \
+    vendor/sony/lilac/proprietary/vendor/lib/cama15/libui.so:$(TARGET_COPY_OUT_VENDOR)/lib/cama15/libui.so \
+    vendor/sony/lilac/proprietary/vendor/lib/cama15/libc++.so:$(TARGET_COPY_OUT_VENDOR)/lib/cama15/libc++.so \
+    vendor/sony/lilac/proprietary/vendor/lib/cama15/android.hardware.graphics.common-V6-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/cama15/android.hardware.graphics.common-V6-ndk.so \
+    vendor/sony/lilac/proprietary/vendor/lib/cama15/android.hardware.graphics.common-V7-ndk.so:$(TARGET_COPY_OUT_VENDOR)/lib/cama15/android.hardware.graphics.common-V7-ndk.so \
     vendor/sony/lilac/proprietary/vendor/lib/libgcs-calwrapper.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgcs-calwrapper.so \
     vendor/sony/lilac/proprietary/vendor/lib/libgcs-ipc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgcs-ipc.so \
     vendor/sony/lilac/proprietary/vendor/lib/libgcs-osal.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgcs-osal.so \
